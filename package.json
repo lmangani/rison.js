@@ -1,6 +1,6 @@
 {
   "name": "rison.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "RISON enc/dec for NodeJS",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   "author": "Lorenzo Mangani <lorenzo.mangani@gmail.com> (http://sipcapture.org/)",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "~2.2.5",
-    "chai": "~3.0.0"
+    "chai": "~3.0.0",
+    "mocha": "^7.1.0"
   }
 }

@@ -16,4 +16,5 @@ console.log( encode(json));
 ```
 var rison = '(ami:correct,array:!(one))'
 console.log( decode(rison));
+
 ```

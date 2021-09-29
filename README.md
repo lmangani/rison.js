@@ -1,5 +1,5 @@
 # rison.js
-NodeJS Rison Library
+NodeJS Rison Library with no dependencies
 
 ### Usage
 #### Import

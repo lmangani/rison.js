@@ -1,6 +1,6 @@
 {
   "name": "rison.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "RISON encoder/decoder for NodeJS",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,6 @@
   "license": "MIT",
   "devDependencies": {
     "chai": "~3.0.0",
-    "mocha": "^7.1.0"
+    "mocha": "^9.1.3"
   }
 }
